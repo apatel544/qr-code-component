@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-with-only-html-and-css-pbphSz0zAY]
-- Live Site URL: [https://apatel544.github.io/qr-code-component/]
+- Solution URL: [View my submitted solution on FrontendMentor.io](https://www.frontendmentor.io/solutions/qr-code-component-with-only-html-and-css-pbphSz0zAY)
+- Live Site URL: [Live Hosted App Link](https://apatel544.github.io/qr-code-component/)
 
 ## My process
 
