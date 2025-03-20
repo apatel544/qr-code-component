@@ -39,6 +39,6 @@ I will continue developing my skillset primarily focusing on Responsive Design. 
 
 ## Author
 
-- Website - [Ankur Patel](https://www.your-site.com)
+- Website - [Ankur Patel](https://apatel544.github.io/)
 - Frontend Mentor - [@apatel544](https://www.frontendmentor.io/profile/apatel544)
 - LinkedIn - [@ankurpatel-1](https://www.linkedin.com/in/ankurpatel-1/)
